@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:adobe_xd/pinned.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:todo_practice/main.dart';
 
 class NextPage extends StatelessWidget {
-  NextPage({
-    required Key key,
-  }) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
