@@ -4,9 +4,9 @@ A new Flutter application.
 
 
 # safety nullで実行できない時↓
-## $ flutter run --no-sound-null-safety
+- $ flutter run --no-sound-null-safety
 
-# https://dart.dev/null-safety/unsound-null-safety
+- https://dart.dev/null-safety/unsound-null-safety
 
 
 ## Getting Started
