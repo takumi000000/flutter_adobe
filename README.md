@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+
+# safety nullで実行できない時↓
+## $ flutter run --no-sound-null-safety
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
